@@ -12,6 +12,7 @@ WorkSpace D:\Projects
 http://nodejs.org/
 ### 安装 Git
 http://git-scm.com/
+<!-- more -->
 ### 安装 Hexo
   Win + R 键入 cmd 打开命令提示符，输入以下指令开始安装。
   ``` bash
