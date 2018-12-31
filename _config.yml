@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 伟伟的博客
+subtitle: Keep it simple, stupid.
 description:
 keywords:
-author: John Doe
-language:
+author:
+language: zh-CN
 timezone:
 
 # URL
