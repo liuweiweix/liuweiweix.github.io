@@ -4,8 +4,8 @@ tags: 随便说说
 date: 2016-06-07 00:00:00
 ---
 {% asset_img rocky-balboa.jpg 800 Rocky%}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=32431822&auto=0&height=66"></iframe>
 <!-- more -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=32431822&auto=0&height=66"></iframe>
 {% cq %}
 The world ain't all sunshine and rainbows
 It's a very mean and nasty place，
