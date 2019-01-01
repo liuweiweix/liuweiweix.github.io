@@ -143,6 +143,7 @@ menu:
   #categories: /categories/ || th
   archives: /archives/ || archive
   movie: /movie || film
+  music: /music || music
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
