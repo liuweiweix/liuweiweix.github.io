@@ -6,6 +6,20 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [夏洛特烦恼](https://movie.douban.com/subject/25964071/)
+### [旋风小子2：新乌龙院](https://movie.douban.com/subject/1308927/)
+2019.01.14
+{% endnote %}
+
+{% note %}
+### [少林足球](https://movie.douban.com/subject/1297747/)
+2019.01.13
+北京·香河园中里·新家
+{% endnote %}
+
+{% note %}
+### [黑镜：潘达斯奈基 Black Mirror: Bandersnatch](https://movie.douban.com/subject/30414462/)
+2019.01.01
 {% endnote %}
 
 ## 2018
@@ -214,6 +228,49 @@ date: 2019-01-01 13:58:17
 {% note %}
 ### [菊次郎的夏天](https://movie.douban.com/subject/1293359/)
 2018.05.06
+{% endnote %}
+
+{% note %}
+### [移动迷宫3：死亡解药 Maze Runner: The Death Cure](https://movie.douban.com/subject/26004132/)
+2018.04.21
+{% endnote %}
+
+## 2017
+
+{% note %}
+### [敦刻尔克](https://movie.douban.com/subject/26607693/)
+2017.12.06
+{% endnote %}
+
+{% note %}
+### [星际穿越](https://movie.douban.com/subject/1889243/)
+2017.10.06
+{% endnote %}
+
+{% note %}
+### [军舰岛](https://movie.douban.com/subject/26445216/)
+2017.10.05
+{% endnote %}
+
+{% note %}
+### [羞羞的铁拳](https://movie.douban.com/subject/27038183/)
+2017.10.04
+{% endnote %}
+
+{% note %}
+### [黑镜 第一季 Black Mirror Season 1](https://movie.douban.com/subject/7054120/)
+2017.07.20
+{% endnote %}
+
+{% note %}
+### [建军大业](https://movie.douban.com/subject/1889243/)
+2017.07.12
+北京·奥兰环球影城·诚盈中心店
+{% endnote %}
+
+{% note %}
+### [越狱 第五季 Prison Break Season 5](https://movie.douban.com/subject/26416957/)
+2017.07.02
 {% endnote %}
 
 {% note %}
