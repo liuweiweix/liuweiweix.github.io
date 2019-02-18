@@ -6,6 +6,30 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [新喜剧之王](https://movie.douban.com/subject/4840388/)
+2019.02.17
+北京·海淀区·深影国际影城
+{% endnote %}
+
+{% note %}
+### [深空失忆 Pandorum](https://movie.douban.com/subject/3011617/)
+2019.02.16
+北京·Bill家
+{% endnote %}
+
+{% note %}
+### [流浪地球](https://movie.douban.com/subject/26266893/)
+2019.02.13
+北京·UME影城（北京安贞店）
+{% endnote %}
+
+{% note %}
+### [厉害了，我的国](https://movie.douban.com/subject/30152451/)
+2019.02.08
+河南·开封·通许
+{% endnote %}
+
+{% note %}
 ### [夏洛特烦恼](https://movie.douban.com/subject/25964071/)
 ### [旋风小子2：新乌龙院](https://movie.douban.com/subject/1308927/)
 2019.01.14
