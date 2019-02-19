@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [疯狂的外星人](https://movie.douban.com/subject/25986662/)
+2019.02.19
+北京·家
+{% endnote %}
+
+{% note %}
 ### [新喜剧之王](https://movie.douban.com/subject/4840388/)
 2019.02.17
 北京·海淀区·深影国际影城
