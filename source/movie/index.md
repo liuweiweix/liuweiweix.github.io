@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [飞驰人生](https://movie.douban.com/subject/30163509/)
+2019.02.21
+北京·家
+{% endnote %}
+
+{% note %}
 ### [疯狂的外星人](https://movie.douban.com/subject/25986662/)
 2019.02.19
 北京·家
