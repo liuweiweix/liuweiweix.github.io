@@ -6,6 +6,30 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [绿皮书 Green Book](https://movie.douban.com/subject/27060077/)
+2019.03.23
+北京·家
+{% endnote %}
+
+{% note %}
+### [动物世界](https://movie.douban.com/subject/26925317/)
+2019.03.16
+北京·老陈家
+{% endnote %}
+
+{% note %}
+### [飞屋环游记 Up](https://movie.douban.com/subject/2129039/)
+2019.03.16
+北京·老陈家
+{% endnote %}
+
+{% note %}
+### [惊奇队长 Captain Marvel](https://movie.douban.com/subject/26213252/)
+2019.03.13
+北京·安贞 UME
+{% endnote %}
+
+{% note %}
 ### [飞驰人生](https://movie.douban.com/subject/30163509/)
 2019.02.21
 北京·家
