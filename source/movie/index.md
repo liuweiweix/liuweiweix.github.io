@@ -334,5 +334,10 @@ date: 2019-01-01 13:58:17
 {% endnote %}
 
 {% note %}
+### [你的名字。 君の名は。](https://movie.douban.com/subject/26683290/)
+2017.06.18
+{% endnote %}
+
+{% note %}
 ......
 {% endnote %}
