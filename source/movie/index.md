@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [请回答1988 응답하라 1988](https://movie.douban.com/subject/26302614/)
+2019.04.14 完结
+北京·家
+{% endnote %}
+
+{% note %}
 ### [绿皮书 Green Book](https://movie.douban.com/subject/27060077/)
 2019.03.23
 北京·家
