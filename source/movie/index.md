@@ -6,6 +6,24 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [复仇者联盟4：终局之战 Avengers: Endgame](https://movie.douban.com/subject/26100958/)
+2019.05.25
+北京·家
+{% endnote %}
+
+{% note %}
+### [美国队长 Captain America: The First Avenger](https://movie.douban.com/subject/2138838/)
+2019.05.05
+北京·家
+{% endnote %}
+
+{% note %}
+### [钢铁侠 Iron Man](https://movie.douban.com/subject/1432146/)
+2019.04.27
+北京·家
+{% endnote %}
+
+{% note %}
 ### [请回答1988 응답하라 1988](https://movie.douban.com/subject/26302614/)
 2019.04.14 完结
 北京·家
