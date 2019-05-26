@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [肖申克的救赎 The Shawshank Redemption](https://movie.douban.com/subject/1292052/)
+2019.05.26
+北京·家
+{% endnote %}
+
+{% note %}
 ### [复仇者联盟4：终局之战 Avengers: Endgame](https://movie.douban.com/subject/26100958/)
 2019.05.25
 北京·家
