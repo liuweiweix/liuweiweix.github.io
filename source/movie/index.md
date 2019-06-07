@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [听说 聽說 (2009)](https://movie.douban.com/subject/3824672/)
+2019.06.07
+北京·家
+{% endnote %}
+
+{% note %}
 ### [比悲伤更悲伤的故事 比悲傷更悲傷的故事 (2018)](https://movie.douban.com/subject/27624661/)
 2019.06.07
 北京·家
