@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [解除好友2：暗网 Unfriended: Dark Web](https://movie.douban.com/subject/26725678/)
+2019.06.08
+北京·家
+{% endnote %}
+
+{% note %}
 ### [听说 聽說 (2009)](https://movie.douban.com/subject/3824672/)
 2019.06.07
 北京·家
