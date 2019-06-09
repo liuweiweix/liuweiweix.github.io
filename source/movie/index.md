@@ -6,6 +6,30 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [忠犬八公的故事 Hachi: A Dog's Tale (2009)](https://movie.douban.com/subject/3011091/)
+2019.06.10
+北京·家
+{% endnote %}
+
+{% note %}
+### [神话 (2005)](https://movie.douban.com/subject/1307023/)
+2019.06.10
+北京·家
+{% endnote %}
+
+{% note %}
+### [复仇者联盟3：无限战争 Avengers: Infinity War (2018)](https://movie.douban.com/subject/24773958/)
+2019.06.09
+北京·家
+{% endnote %}
+
+{% note %}
+### [我是谁 我是誰 (1998)](https://movie.douban.com/subject/1300303/)
+2019.06.09
+北京·家
+{% endnote %}
+
+{% note %}
 ### [解除好友2：暗网 Unfriended: Dark Web](https://movie.douban.com/subject/26725678/)
 2019.06.08
 北京·家
