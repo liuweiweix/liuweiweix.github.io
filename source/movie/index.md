@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [战犬瑞克斯 Megan Leavey](https://movie.douban.com/subject/26610786/)
+2019.06.16
+北京·家
+{% endnote %}
+
+{% note %}
 ### [忠犬八公的故事 Hachi: A Dog's Tale (2009)](https://movie.douban.com/subject/3011091/)
 2019.06.10
 北京·家
