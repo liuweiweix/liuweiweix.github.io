@@ -6,6 +6,18 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [黑镜 第五季 Black Mirror Season 5](https://movie.douban.com/subject/30161936/)
+2019.06.23
+北京·家
+{% endnote %}
+
+{% note %}
+### [千与千寻 千と千尋の神隠し](https://movie.douban.com/subject/1291561/)
+2019.06.21
+北京·安贞 UME
+{% endnote %}
+
+{% note %}
 ### [战犬瑞克斯 Megan Leavey](https://movie.douban.com/subject/26610786/)
 2019.06.16
 北京·家
