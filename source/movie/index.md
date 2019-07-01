@@ -6,6 +6,24 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [指环王3：王者无敌 The Lord of the Rings: The Return of the King](https://movie.douban.com/subject/1291552/)
+2019.06.30
+北京·家
+{% endnote %}
+
+{% note %}
+### [指环王2：双塔奇兵 The Lord of the Rings: The Two Towers](https://movie.douban.com/subject/1291572/)
+2019.06.30
+北京·家
+{% endnote %}
+
+{% note %}
+### [指环王1：魔戒再现 The Lord of the Rings: The Fellowship of the Ring](https://movie.douban.com/subject/1291571/)
+2019.06.29
+北京·家
+{% endnote %}
+
+{% note %}
 ### [黑镜 第五季 Black Mirror Season 5](https://movie.douban.com/subject/30161936/)
 2019.06.23
 北京·家
