@@ -6,6 +6,30 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [裸婚时代](https://movie.douban.com/subject/5958582/)
+2019.08.07
+北京·家
+{% endnote %}
+
+{% note %}
+### [喜欢你](https://movie.douban.com/subject/26816383/)
+2019.08.04
+北京·家
+{% endnote %}
+
+{% note %}
+### [黑衣人：全球追缉 Men in Black International](https://movie.douban.com/subject/19971676/)
+2019.08.03
+北京·家
+{% endnote %}
+
+{% note %}
+### [死亡飞车 Death Race](https://movie.douban.com/subject/2132412/)
+2019.08.03
+北京·家
+{% endnote %}
+
+{% note %}
 ### [本杰明·巴顿奇事 The Curious Case of Benjamin Button](https://movie.douban.com/subject/1485260/)
 2019.07.21 早上
 北京·家
