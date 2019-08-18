@@ -6,6 +6,18 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [我的！体育老师](https://movie.douban.com/subject/26776469/)
+2019.08.18
+北京·家
+{% endnote %}
+
+{% note %}
+### [胖子行动队](https://movie.douban.com/subject/27149818/)
+2019.08.11
+北京·家
+{% endnote %}
+
+{% note %}
 ### [裸婚时代](https://movie.douban.com/subject/5958582/)
 2019.08.07
 北京·家
