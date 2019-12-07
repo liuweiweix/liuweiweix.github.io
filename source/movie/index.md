@@ -6,6 +6,51 @@ date: 2019-01-01 13:58:17
 ## 2019
 
 {% note %}
+### [中国机长](https://movie.douban.com/subject/30295905/)
+2019.12.7
+北京·家
+{% endnote %}
+
+{% note %}
+### [海上钢琴师 La leggenda del pianista sull'oceano](https://movie.douban.com/subject/1292001/)
+2019.11.23
+郑州·CGV
+{% endnote %}
+
+{% note %}
+### [攀登者](https://movie.douban.com/subject/30413052/)
+2019.11.22
+郑州·万科城
+{% endnote %}
+
+{% note %}
+### [无名之辈](https://movie.douban.com/subject/27110296/)
+国庆假期
+{% endnote %}
+
+{% note %}
+### [全球风暴 Geostorm](https://movie.douban.com/subject/22266012/)
+国庆假期
+{% endnote %}
+
+{% note %}
+### [星际穿越 Interstellar](https://movie.douban.com/subject/1889243/)
+国庆假期
+{% endnote %}
+
+{% note %}
+### [我和我的祖国](https://movie.douban.com/subject/32659890/)
+2019.09.30
+爱琴海
+{% endnote %}
+
+{% note %}
+### [徒手攀岩 Free Solo](https://movie.douban.com/subject/30167509/)
+2019.09.12
+博纳国际影城（悠唐店）
+{% endnote %}
+
+{% note %}
 ### [我的！体育老师](https://movie.douban.com/subject/26776469/)
 2019.08.18
 北京·家
