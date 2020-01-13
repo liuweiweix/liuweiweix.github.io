@@ -3,7 +3,41 @@ title: 电影时光机
 date: 2019-01-01 13:58:17
 ---
 
+## 2020
+
+{% note %}
+### [苍穹浩瀚 第一季 The Expanse Season 1](https://movie.douban.com/subject/25926851/)
+### [苍穹浩瀚 第二季 The Expanse Season 2](https://movie.douban.com/subject/26675245/)
+### [苍穹浩瀚 第三季 The Expanse Season 3](https://movie.douban.com/subject/27025029/)
+### [苍穹浩瀚 第四季 The Expanse Season 4](https://movie.douban.com/subject/30234319/)
+2019.12.13 ~ 2020.01.12
+{% endnote %}
+
 ## 2019
+
+{% note %}
+### [赛车总动员 Cars](https://movie.douban.com/subject/1428878/)
+2019.12.22
+北京·家
+{% endnote %}
+
+{% note %}
+### [少年的你](https://movie.douban.com/subject/30166972/)
+2019.12.14
+北京·家
+{% endnote %}
+
+{% note %}
+### [超体 Lucy](https://movie.douban.com/subject/24404677/)
+2019.12.14
+北京·家
+{% endnote %}
+
+{% note %}
+### [哪吒之魔童降世](https://movie.douban.com/subject/26794435/)
+2019.12.9
+北京·家
+{% endnote %}
 
 {% note %}
 ### [中国机长](https://movie.douban.com/subject/30295905/)
