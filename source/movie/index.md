@@ -6,6 +6,18 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [食神](https://movie.douban.com/subject/1293351/)
+2020.01.17
+北京·家·牛排宴 with 春波、马可、Bill
+{% endnote %}
+
+{% note %}
+### [爱，死亡和机器人 第一季 Love, Death & Robots Season 1](https://movie.douban.com/subject/30424374/)
+2020.01.12
+北京·家
+{% endnote %}
+
+{% note %}
 ### [苍穹浩瀚 第一季 The Expanse Season 1](https://movie.douban.com/subject/25926851/)
 ### [苍穹浩瀚 第二季 The Expanse Season 2](https://movie.douban.com/subject/26675245/)
 ### [苍穹浩瀚 第三季 The Expanse Season 3](https://movie.douban.com/subject/27025029/)
