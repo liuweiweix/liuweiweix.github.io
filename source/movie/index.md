@@ -6,6 +6,62 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [独家记忆 (2019)](https://movie.douban.com/subject/30196806/)
+2020.03.23
+北京·家
+感想：甜。刘启打的那个游戏叫 DOTA。
+{% endnote %}
+
+{% note %}
+### [有话好好说 (1997)](https://movie.douban.com/subject/1296436/)
+2020.03.15
+北京·家
+{% endnote %}
+
+{% note %}
+### [黑洞表面 Event Horizon (1997)](https://movie.douban.com/subject/1298041/)
+2020.03.03
+北京·家
+感想：炒鸡恐怖
+{% endnote %}
+
+{% note %}
+### [复仇者联盟4：终局之战 Avengers: Endgame (2019)](https://movie.douban.com/subject/26100958/)
+2020.03.01
+北京·家
+{% endnote %}
+
+{% note %}
+### [想见你 想見你 (2019)](https://movie.douban.com/subject/30468961/)
+2020.02.25
+北京·家
+{% endnote %}
+
+{% note %}
+### [牧马人 (1982)](https://movie.douban.com/subject/1308038/)
+2020.02.21
+北京·家
+{% endnote %}
+
+{% note %}
+### [传染病 Contagion (2011)](https://movie.douban.com/subject/4301043/)
+2020.02.15
+北京·家
+{% endnote %}
+
+{% note %}
+### [我爱男保姆 (2015)](https://movie.douban.com/subject/26125672/)
+2020.02.14
+北京·家
+{% endnote %}
+
+{% note %}
+### [人猿星球 Planet of the Apes (1968)](https://movie.douban.com/subject/1296697/)
+2020.02.07
+北京·家
+{% endnote %}
+
+{% note %}
 ### [食神](https://movie.douban.com/subject/1293351/)
 2020.01.17
 北京·家·牛排宴 with 春波、马可、Bill
