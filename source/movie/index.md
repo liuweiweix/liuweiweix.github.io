@@ -6,6 +6,19 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [魔女宅急便 魔女の宅急便 (1989)](https://movie.douban.com/subject/1307811/)
+2020.04.11
+北京·家
+{% endnote %}
+
+{% note %}
+### [西部世界 第三季 Westworld Season 3 (2020)](https://movie.douban.com/subject/30206389/)
+2020.04.11
+北京·家
+第 4 集
+{% endnote %}
+
+{% note %}
 ### [重生 (2020)](https://movie.douban.com/subject/30203553/)
 2020.04.11
 北京·家
@@ -15,7 +28,7 @@ date: 2019-01-01 13:58:17
 ### [西部世界 第三季 Westworld Season 3 (2020)](https://movie.douban.com/subject/30206389/)
 2020.04.05
 北京·家
-看了 1，2，3 集
+第 1，2，3 集
 {% endnote %}
 
 {% note %}
