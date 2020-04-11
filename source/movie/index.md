@@ -6,6 +6,19 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [重生 (2020)](https://movie.douban.com/subject/30203553/)
+2020.04.11
+北京·家
+{% endnote %}
+
+{% note %}
+### [西部世界 第三季 Westworld Season 3 (2020)](https://movie.douban.com/subject/30206389/)
+2020.04.05
+北京·家
+看了 1，2，3 集
+{% endnote %}
+
+{% note %}
 ### [独家记忆 (2019)](https://movie.douban.com/subject/30196806/)
 2020.03.23
 北京·家
