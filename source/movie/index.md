@@ -6,6 +6,13 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [爱乐之城 La La Land (2016)](https://movie.douban.com/subject/25934014/)
+2020.05.29
+北京·公司·游戏室
+感想：抓紧你爱的人
+{% endnote %}
+
+{% note %}
 ### [恐怖直播 더 테러 라이브 (2013)](https://movie.douban.com/subject/21360417/)
 2020.05.17
 北京·家
