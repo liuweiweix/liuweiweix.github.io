@@ -6,6 +6,49 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [杀人回忆 살인의 추억 (2003)](https://movie.douban.com/subject/1300299/)
+2020.07.04
+北京·家
+{% endnote %}
+
+{% note %}
+### [隐秘的角落 (2020)](https://movie.douban.com/subject/33404425/)
+2020.07.03
+北京·家
+感想：好剧
+{% endnote %}
+
+{% note %}
+### [逃出绝命镇 Get Out (2017)](https://movie.douban.com/subject/26688480/)
+2020.06.26
+北京·家
+{% endnote %}
+
+{% note %}
+### [一球成名 Goal! (2005)](https://movie.douban.com/subject/1437204/)
+2020.06.20
+北京·家
+{% endnote %}
+
+{% note %}
+### [盗梦空间 Inception (2010)](https://movie.douban.com/subject/3541415/)
+2020.06.14
+北京·家
+{% endnote %}
+
+{% note %}
+### [西部世界 第三季 Westworld Season 3 (2020)](https://movie.douban.com/subject/30206389/)
+2020.06.07
+北京·家
+{% endnote %}
+
+{% note %}
+### [半个喜剧 (2019)](https://movie.douban.com/subject/30269016/)
+2020.06.07
+北京·家
+{% endnote %}
+
+{% note %}
 ### [爱乐之城 La La Land (2016)](https://movie.douban.com/subject/25934014/)
 2020.05.29
 北京·公司·游戏室
