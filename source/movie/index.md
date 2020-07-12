@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [环形物语 Tales from the Loop (2020)](https://movie.douban.com/subject/30277286/)
+2020.07.12
+北京·家
+{% endnote %}
+
+{% note %}
 ### [杀人回忆 살인의 추억 (2003)](https://movie.douban.com/subject/1300299/)
 2020.07.04
 北京·家
