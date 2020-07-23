@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [暗黑 第一季 Dark Season 1 (2017)](https://movie.douban.com/subject/26992330/)
+2020.07.23
+北京·家
+{% endnote %}
+
+{% note %}
 ### [环形物语 Tales from the Loop (2020)](https://movie.douban.com/subject/30277286/)
 2020.07.12
 北京·家
