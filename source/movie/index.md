@@ -6,6 +6,13 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [暗黑 第二季 Dark Season 2 (2019)](https://movie.douban.com/subject/27611018/)
+### [暗黑 第三季 Dark Season 3 (2020)](https://movie.douban.com/subject/34442364/)
+2020.07.28
+北京·家
+{% endnote %}
+
+{% note %}
 ### [暗黑 第一季 Dark Season 1 (2017)](https://movie.douban.com/subject/26992330/)
 2020.07.23
 北京·家
