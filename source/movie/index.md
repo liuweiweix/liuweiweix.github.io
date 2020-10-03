@@ -6,6 +6,25 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [死亡诗社 Dead Poets Society (1989)](https://movie.douban.com/subject/1291548/)
+2020.10.03
+北京·家
+{% endnote %}
+
+{% note %}
+### [过昭关 (2018)](https://movie.douban.com/subject/30206431/)
+### [星际穿越 Interstellar (2014)](https://movie.douban.com/subject/1889243/)
+2020.09.26
+北京·家
+{% endnote %}
+
+{% note %}
+### [信条 Tenet (2020)](https://movie.douban.com/subject/30444960/)
+2020.09.16
+安贞·UME
+{% endnote %}
+
+{% note %}
 ### [暗黑 第二季 Dark Season 2 (2019)](https://movie.douban.com/subject/27611018/)
 ### [暗黑 第三季 Dark Season 3 (2020)](https://movie.douban.com/subject/34442364/)
 2020.07.28
