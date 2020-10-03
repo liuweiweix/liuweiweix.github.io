@@ -9,6 +9,7 @@ date: 2019-01-01 13:58:17
 ### [死亡诗社 Dead Poets Society (1989)](https://movie.douban.com/subject/1291548/)
 2020.10.03
 北京·家
+感想：Carpe Diem: Seize the Day.
 {% endnote %}
 
 {% note %}
