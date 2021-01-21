@@ -35,8 +35,8 @@ jobs:
         npm i -g hexo-cli
         npm i
 
-      - name: depoly
-        run: |
-          hexo clean
-          hexo g
-          hexo d
+    - name: depoly
+      run: |
+        hexo clean
+        hexo g
+        hexo d
