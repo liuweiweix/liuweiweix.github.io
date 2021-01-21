@@ -1,0 +1,42 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+
+    - name: checkout
+      uses: actions/checkout@v1
+
+    - name: use node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: prepare env
+      env:
+        ACTIONS_DEPLOY_PRIVATE_KEY: ${{ secrets.ACTIONS_DEPLOY_PRIVATE_KEY }}
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$ACTIONS_DEPLOY_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        git config --global user.name 'liuweiwei'
+        git config --global user.email 'liuweiweix@gmail.com'
+        npm i -g hexo-cli
+        npm i
+
+      - name: depoly
+        run: |
+          hexo clean
+          hexo g
+          hexo d
