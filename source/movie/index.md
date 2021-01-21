@@ -6,6 +6,31 @@ date: 2019-01-01 13:58:17
 ## 2020
 
 {% note %}
+### [拆弹专家2 (2020)](https://movie.douban.com/subject/30171424/)
+### [神奇女侠1984 Wonder Woman 1984 (2020)](https://movie.douban.com/subject/27073752/)
+2020.12.24
+北京·安贞 UME
+{% endnote %}
+
+{% note %}
+### [信条 Tenet (2020)](https://movie.douban.com/subject/30444960/)
+2020.11
+北京·家
+{% endnote %}
+
+{% note %}
+### [1917 (2019)](https://movie.douban.com/subject/30252495/)
+2020.10.30
+北京·家
+{% endnote %}
+
+{% note %}
+### [心灵捕手 Good Will Hunting (1997)](https://movie.douban.com/subject/1292656/)
+2020.10.04
+北京·家
+{% endnote %}
+
+{% note %}
 ### [死亡诗社 Dead Poets Society (1989)](https://movie.douban.com/subject/1291548/)
 2020.10.03
 北京·家
