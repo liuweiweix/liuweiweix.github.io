@@ -6,6 +6,18 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [釜山行2：半岛 부산행2-반도 (2020)](https://movie.douban.com/subject/30299515/)
+2021.03.13
+北京·家
+{% endnote %}
+
+{% note %}
+### [送你一朵小红花 (2020)](https://movie.douban.com/subject/35096844/)
+2021.03.06
+G806 郑州 - 北京西
+{% endnote %}
+
+{% note %}
 ### [苍穹浩瀚 第五季 The Expanse Season 5 (2020)](https://movie.douban.com/subject/34725334/)
 2021.01.25 ~ 2021.02.04
 感想：硬科幻，过瘾！
