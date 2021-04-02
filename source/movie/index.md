@@ -6,6 +6,13 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [哥斯拉大战金刚 Godzilla vs Kong (2021)](https://movie.douban.com/subject/26613692/)
+2021.03.28
+北京·橙天嘉禾影城
+儿子第一次去电影院看电影
+{% endnote %}
+
+{% note %}
 ### [釜山行2：半岛 부산행2-반도 (2020)](https://movie.douban.com/subject/30299515/)
 2021.03.13
 北京·家
