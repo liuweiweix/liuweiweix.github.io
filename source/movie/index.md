@@ -6,6 +6,54 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [扎克·施奈德版正义联盟 Zack Snyder's Justice League (2021)](https://movie.douban.com/subject/35076714/)
+2021.05.06
+北京·家
+{% endnote %}
+
+{% note %}
+### [唐人街探案3 (2021)](https://movie.douban.com/subject/27619748/)
+2021.05.03
+北京·家
+{% endnote %}
+
+{% note %}
+### [赛车总动员2 Cars 2 (2011)](https://movie.douban.com/subject/3036478/)
+2021.05.03
+北京·家
+{% endnote %}
+
+{% note %}
+### [哆啦A梦：大雄的新恐龙 映画ドラえもん のび太の新恐竜 (2020)](https://movie.douban.com/subject/34454004/)
+2021.05.02
+北京·家 with andy
+{% endnote %}
+
+{% note %}
+### [心灵奇旅 Soul (2020)](https://movie.douban.com/subject/24733428/)
+2021.05.01
+北京·家
+{% endnote %}
+
+{% note %}
+### [人潮汹涌 (2021)](https://movie.douban.com/subject/34880302/)
+2021.04.22
+北京·家
+{% endnote %}
+
+{% note %}
+### [僵尸世界大战 World War Z (2013)](https://movie.douban.com/subject/2132473/)
+2021.04.10
+海南->北京飞机上
+{% endnote %}
+
+{% note %}
+### [寻龙诀 (2015)](https://movie.douban.com/subject/3077412/)
+2021.04.03
+北京·家
+{% endnote %}
+
+{% note %}
 ### [哥斯拉大战金刚 Godzilla vs Kong (2021)](https://movie.douban.com/subject/26613692/)
 2021.03.28
 北京·橙天嘉禾影城
@@ -28,6 +76,12 @@ G806 郑州 - 北京西
 ### [苍穹浩瀚 第五季 The Expanse Season 5 (2020)](https://movie.douban.com/subject/34725334/)
 2021.01.25 ~ 2021.02.04
 感想：硬科幻，过瘾！
+北京·家
+{% endnote %}
+
+{% note %}
+### [美人鱼 (2016)](https://movie.douban.com/subject/19944106/)
+2021.01.09
 北京·家
 {% endnote %}
 
