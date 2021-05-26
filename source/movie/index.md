@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [爱，死亡和机器人 第二季 Love, Death & Robots Season 2 (2021)](https://movie.douban.com/subject/34418203/)
+2021.05.24
+北京·家
+{% endnote %}
+
+{% note %}
 ### [扎克·施奈德版正义联盟 Zack Snyder's Justice League (2021)](https://movie.douban.com/subject/35076714/)
 2021.05.06
 北京·家
