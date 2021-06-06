@@ -6,6 +6,18 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [《死亡笔记》（DEATH NOTE）](https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E7%AD%86%E8%A8%98_(%E5%8B%95%E7%95%AB))
+2021.05.31 ~ 2021.06.06
+北京·家
+{% endnote %}
+
+{% note %}
+### [功夫 (2004)](https://movie.douban.com/subject/1291543/)
+2021.05.28
+北京·家
+{% endnote %}
+
+{% note %}
 ### [爱，死亡和机器人 第二季 Love, Death & Robots Season 2 (2021)](https://movie.douban.com/subject/34418203/)
 2021.05.24
 北京·家
