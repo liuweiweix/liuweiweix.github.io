@@ -6,6 +6,18 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [鱿鱼游戏 오징어 게임 (2021)](https://movie.douban.com/subject/34812928/)
+2021.09.30
+北京·家
+{% endnote %}
+
+{% note %}
+### [扫黑风暴 (2021)](https://movie.douban.com/subject/35202793/)
+2021.09.21
+北京·家
+{% endnote %}
+
+{% note %}
 ### [《死亡笔记》（DEATH NOTE）](https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E7%AD%86%E8%A8%98_(%E5%8B%95%E7%95%AB))
 2021.05.31 ~ 2021.06.06
 北京·家
