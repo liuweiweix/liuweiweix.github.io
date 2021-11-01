@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [人间课堂 인간수업 (2020)](https://movie.douban.com/subject/33425663/)
+2021.11.01
+北京·家
+{% endnote %}
+
+{% note %}
 ### [鱿鱼游戏 오징어 게임 (2021)](https://movie.douban.com/subject/34812928/)
 2021.09.30
 北京·家
