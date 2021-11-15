@@ -6,6 +6,12 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [芬奇 Finch (2021)](https://movie.douban.com/subject/26897885/)
+2021.11.15
+北京·家
+{% endnote %}
+
+{% note %}
 ### [我的名字 마이네임 (2021)](https://movie.douban.com/subject/35172465/)
 2021.11.8
 北京·家
