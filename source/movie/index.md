@@ -6,6 +6,14 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [怪奇物语 第一季 Stranger Things Season 1 (2016)](https://movie.douban.com/subject/26359270/)
+### [怪奇物语 第二季 Stranger Things Season 2 (2017)](https://movie.douban.com/subject/26844438/)
+### [怪奇物语 第三季 Stranger Things Season 3 (2019)](https://movie.douban.com/subject/27119156/)
+2021.12.03
+北京·家
+{% endnote %}
+
+{% note %}
 ### [芬奇 Finch (2021)](https://movie.douban.com/subject/26897885/)
 2021.11.15
 北京·家
