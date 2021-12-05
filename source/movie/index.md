@@ -6,10 +6,22 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [波西米亚狂想曲 Bohemian Rhapsody (2018)](https://movie.douban.com/subject/5300054/)
+2021.12.05
+北京·家
+{% endnote %}
+
+{% note %}
+### [丑女大翻身 미녀는 괴로워 (2006)](https://movie.douban.com/subject/2037796/)
+2021.12.05
+北京·家
+{% endnote %}
+
+{% note %}
 ### [怪奇物语 第一季 Stranger Things Season 1 (2016)](https://movie.douban.com/subject/26359270/)
 ### [怪奇物语 第二季 Stranger Things Season 2 (2017)](https://movie.douban.com/subject/26844438/)
 ### [怪奇物语 第三季 Stranger Things Season 3 (2019)](https://movie.douban.com/subject/27119156/)
-2021.12.03
+~ 2021.12.03
 北京·家
 {% endnote %}
 
