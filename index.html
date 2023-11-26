@@ -1,0 +1,1743 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<html class="theme-next gemini use-motion" lang="zh-CN">
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2">
+
+<link rel="stylesheet" href="/css/main.css?v=6.6.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.6.0">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?v=6.6.0">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?v=6.6.0">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.6.0" color="#222">
+
+
+
+
+
+
+
+<script id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Gemini',
+    version: '6.6.0',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+
+  <meta property="og:type" content="website">
+<meta property="og:title" content="伟伟的博客">
+<meta property="og:url" content="http://yoursite.com/index.html">
+<meta property="og:site_name" content="伟伟的博客">
+<meta property="og:locale" content="zh-CN">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="伟伟的博客">
+
+
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/">
+
+
+
+<script id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+
+  <title>伟伟的博客</title>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .motion-element,
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-title { opacity: initial; }
+
+  .use-motion .logo,
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left 
+  page-home">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope="" itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">伟伟的博客</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+    
+      
+        <p class="site-subtitle">Keep it simple, stupid.</p>
+      
+    
+    
+  </div>
+
+  <div class="site-nav-toggle">
+    <button aria-label="切换导航栏">
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+          
+          <li class="menu-item menu-item-home menu-item-active">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-home"></i> <br>首页</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-tags">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>标签</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-archives">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>归档</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-movie">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/movie" rel="section"><i class="menu-item-icon fa fa-fw fa-film"></i> <br>电影</a>
+
+  </li>
+        
+        
+        
+          
+          <li class="menu-item menu-item-music">
+
+    
+    
+    
+      
+    
+
+    
+
+    <a href="/music" rel="section"><i class="menu-item-icon fa fa-fw fa-music"></i> <br>音乐</a>
+
+  </li>
+
+      
+      
+    </ul>
+  
+
+  
+
+  
+</nav>
+
+
+
+  
+
+
+
+</div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+            
+
+          
+          <div id="content" class="content">
+            
+  <section id="posts" class="posts-expand">
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/secrets-hidden-on-the-wall/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/secrets-hidden-on-the-wall/" class="post-title-link" itemprop="url">藏在墙上的秘密</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2020-03-26 00:25:00" itemprop="dateCreated datePublished" datetime="2020-03-26T00:25:00+00:00">2020-03-26</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p><strong>可以不说话的时候，尽量不说话；冰淇淋的甜腻已经不能再挑战孤独的味蕾，于是习惯酸奶吸管中缓缓涌动上来的乳白；walkman曾经是两个人可以分享的温暖，现在过马路等红绿灯的时候把MP3的音量开到最大，世界就只剩下了你一个人。<br>从肆无忌惮的“哈哈”到对着同样青春明媚的脸叫“吼吼”到在这头的蓝色屏幕下忧郁良久最后打下的两个字“呵呵”。<br>呵呵，它们像悬浮在空气中不计其数的尘埃，到处都是，普通平凡，落地无声。于是对话，无法再继续下去。<br>那是漫长的时间爬过皮肤之后的事情，很多时候回头去看，可以听见蜕掉的那层皮肤在无人的月光沼泽轻轻叹息的声音。<br>从前的你也不是这个样子的，你们从前都曾经不是这个样子的。<br>你以前最喜欢明亮的色彩，背包比你的人还高出半个头。他在蝉声鸣躁的夏夜在楼梯的阴影里吹着口哨，你偷偷地摸出不开灯的卧室，因为担心弄出声响，关门时一点一点地把门沿和门框重合。<br>你们曾经有一夜画满了小区下整面新刷的墙，正中间是他用最鲜艳的喷漆涂出的一阵飓风，看着他少年单薄挺拔的背影，差一点，你就以为他可以带着你乘这阵风飞走。<br>香草味的冰淇淋被隔绝在商店厚厚的转闸门后面，北极星的光绚烂温柔，倚着的那堵墙，是缤纷的色彩，是天才的杰作，是你们十来岁心照不宣的秘密。<br>很多年以后，你知道你们一次又一次奔赴和追寻的那种东西，叫做自由。<br>但那是那时的你们才有的勇气和坚持，等到天空的浮云和城市潜藏的飞鸟再也刺激不了敏感的神经之后，你们变成了生活的主人。自由，它是一个太美的空中花园。<br>那些不能抗拒向前走得决绝的时光，它可以把一切都带走。他笑的样子，他闪烁的眼睛，他在墙上营造出来的世界，和所有，似乎不且实际的幻想。<br>那时的深刻，以后可以变得稀释，以后的以后，可以装作再也想不起。<br>只是那日，我们走过学校后面那堵正要被拆卸的墙，那些已经斑驳掉的五颜六色在下一秒钟即将变成尘土，永不再。你突然毫无预兆地，哭了出来。<br>和着你睫毛膏的眼泪，从指缝间，像是多年前那个夏夜，你和他在墙上大片大片画出的河水，淹没了整个世界的隐忍。</strong></p>
+<p><a href="http://ilovedouhua.blog.sohu.com/90548606.html" target="_blank" rel="noopener">也许是原作者博客</a></p>
+
+          
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/githubpages-hexo-travisci/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/githubpages-hexo-travisci/" class="post-title-link" itemprop="url">GitHub Pages + Hexo + Travis CI 自动化构建静态博客</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2019-01-01 00:45:15" itemprop="dateCreated datePublished" datetime="2019-01-01T00:45:15+00:00">2019-01-01</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h3 id="系统环境"><a href="#系统环境" class="headerlink" title="系统环境"></a>系统环境</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Windows10</span><br><span class="line">WorkSpace D:\Projects</span><br></pre></td></tr></table></figure>
+<h3 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h3><p><a href="http://nodejs.org/" target="_blank" rel="noopener">http://nodejs.org/</a></p>
+<h3 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h3><p><a href="http://git-scm.com/" target="_blank" rel="noopener">http://git-scm.com/</a><br>
+          <!--noindex-->
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/githubpages-hexo-travisci/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </p></div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/a-dream/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/a-dream/" class="post-title-link" itemprop="url">一个梦</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2018-06-07 08:35:00" itemprop="dateCreated datePublished" datetime="2018-06-07T08:35:00+00:00">2018-06-07</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>7 点 09 分了，这本是平时早上起来撒晨尿的时间，距离每天八点半的起床时间还有好多首歌的时间。我在床上挣扎了许久才竖起身来，挣扎的原因并不是我想赖床，而是因为我在努力的回忆刚才的那个梦，我梦见了我的爸爸。<br>都说醒来后如果翻身就会很容易把刚做的梦忘记，但我醒来后好像不小心翻身了，这让我懊悔不已。我努力的保持同一个姿势把这个梦复盘了一遍，争取不要漏掉更多的细节，才抹去眼泪起床开电脑准备码字。<br>梦里的爸爸穿着棕色外套面带微笑的从门外走进来，在我身旁坐下了，面带微笑的看着我。他看起来瘦了一些，但是面色不错，完全看不出来苍老的态势呀。只是很多根白发从头皮里冒了出来，头发稀疏的情况跟我现在脱发的情况差不多。并没有电影情节中的隔空对话，甚至都没有寒暄。他的到来让我深感惊喜和意外，在意识到这是一场梦之前，我甚至又开始相信 11 年前的那场变故是一场骗局。这个骗局是我很多年前杜撰的，他因为一场公司事故，可能是接触到了一些国家机密，便鬼使神差的伪造了一份死亡身份，隐姓埋名背井离乡避开亲人独自生活，像电影里的特工那样。接下来我的举动我自己都不敢相信，打开手机开始录像。可能是担心这次会面短暂而仓促，马上要开始新一轮的别离吧。手机的录像提示上写着两个小字：郑州。果不其然，几分钟后他就离开了。妈妈姑姑婶婶在旁边试图阻止我的泣不成声。<br>时光荏苒，十一年稍纵即逝。爸爸第一次出现在我的梦里，如此真实。知道这十一年都发生了什么吗？我结婚了，今年三月份有了自己的儿子。现在在北京做一名游戏程序员。妈妈一直孤身一人，带着我和妹妹长大。叔叔姑姑的孩子们也开始长大。奶奶得了心脏病，有时候会晕倒。爷爷还在抽烟。这些话本该清明上坟的时候说给你听的。岁月在他们的脸上一笔一笔勾勒着皱纹的轮廓。大家都在为自己的家庭努力着奔波着，说不上好但也不坏。<br>今天是个特殊的日子，6 月 7 号，高考的第一天，对，妹妹在参加高考。祝她考出好成绩吧。<br>凌晨瘫在床上刷抖音的时候，一个解读电影的主播讲到了一个电影《黑洞频率》。讲男主角在太阳风暴中通过无线电波和三十年前的父亲通话。<br>没想到几个小时后我就在梦里和你见面了。<br>我该去刷牙洗脸了。</p>
+
+          
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/the-cat-outside-the-window/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/the-cat-outside-the-window/" class="post-title-link" itemprop="url">窗外那只猫</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2018-02-04 21:49:46" itemprop="dateCreated datePublished" datetime="2018-02-04T21:49:46+00:00">2018-02-04</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <img src="/the-cat-outside-the-window/cat.jpg" width="800" title="cat">
+          <!--noindex-->
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/the-cat-outside-the-window/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/simply-brilliant-note/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/simply-brilliant-note/" class="post-title-link" itemprop="url">笔记《Simply Brilliant》极简主义</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2017-05-17 22:02:02" itemprop="dateCreated datePublished" datetime="2017-05-17T22:02:02+00:00">2017-05-17</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <img src="/simply-brilliant-note/kiss.jpg" width="800" title="KISS">
+          <!--noindex-->
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/simply-brilliant-note/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/say-goodbye/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/say-goodbye/" class="post-title-link" itemprop="url">告别</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2017-02-22 01:15:35" itemprop="dateCreated datePublished" datetime="2017-02-22T01:15:35+00:00">2017-02-22</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>今天突然就下起了雪。 Bill 说春雪贵如油。<br>临近午夜的街道上人迹寥寥，更何况这是北京的北五环。<br>刚有个哥们滑倒在路边，哎呦一声吓到了我，一句“哥们没事吧”把谈话持续到了小区门口。他问我是不是同病相怜的也在加班，我点了点头。摆摆手说了拜拜，扭头跨进大门的时候，我突然在想我到底曾经对多少人挥手告别。是啊，人的一生中有数不尽的告别时刻。<br>至今还能清晰记得第一次跨进幼儿园校门的时候，嚎啕大哭，有一种要被整个世界抛弃的感觉。我甚至怀疑一直以来每次午后深睡醒来后片刻的失落感就是从那个时候留下的阴影。爸爸妈妈说晚上放学就来接你，你会认识非常非常多的好朋友，而且晚上会有糖果和冰淇淋作为奖励。那一刻我好坚强，仿佛肩上扛着的拯救世界的使命。转身后却还是泪眼摩挲。有一个星期，才慢慢熟悉伴着臭袜子睡午觉，闻着老师的泡橘子水玩积木的幼儿园生涯。后来我才知道，我对父母的依赖远比上幼儿园想家，要多的多的多。<br>隔代的亲人中，奶奶陪伴我的日子最多。每次暑假结束，准备离开的那个早上，还在被窝里就能听到奶奶在厨房发出的声响，起早为了给我煮一兜鸡蛋，让我路上带着吃。多年后也是这样，虽然我知道，我每次都没有吃完过。步履蹒跚的送我到门口，颤抖的声音在嘱咐我的衣食住行。于是大家便都开始颤抖起来。<br>长大以后，很少会再经历这种风沙迷眼的离别。也许是因为习惯了离别而麻木，也许是因为心里总会有预期，会在不久的将来重逢。直到有一天，父亲在一个炎热的夏日，没有告别，再也没有回来。<br>大学是一个躺在床上假装死机，逃课与电子游戏齐飞的季节。直到一张毕业合影送到手里，同学们互相请吃饭的时候，才意识到，有些人说了再见，就再也不见了。<br>工作后告别就更加频繁了，匆匆见了女友又要赶着周末的班车离开，然后开始畅想下次见面会是什么时候，畅想以后的日子会是怎样。视力变差，总是看不清公交车的车牌是 32 还是 9 路。一人车上一人车下的场景明明就像电影里的画面，只是少了些韩剧的唯美滤镜。<br>上上个周末，拎着两袋栗子一袋面果前往承载着我北京旅程起点的 1701 宿舍。临走时老陈说，刘总下周还来啊，去找老刘和盈盈喝酒。我说好。回来的时候阳光普照，刺的我眼睛生疼。<br>人生中还充斥着各种各样的告别，下班对同事摆手，挂掉老妈的电话，媳妇说我睡了你别太晚，餐厅 waiter 说欢迎下次光临，滴滴司机说慢走， K180 快到站了乘务员在向我走来准备换票。有些很快就会再相见，有些则可能再也不会见到。<br>不过这已经不重要了。也许，离开是为了更好的相聚。<br>为了我们能更好的相聚，亲爱的朋友，让我们干了这杯白开水。<br>P.S. 最近喜欢听 Fine 乐团的两首歌，呼吸决定和我发现你。一如当年 听 G.E.M 的 A.I.N.Y 和我的秘密的感觉，那时候邓紫棋还没那么火。把这两首歌听完就去睡觉。</p>
+
+          
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/rocky-balboa/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/rocky-balboa/" class="post-title-link" itemprop="url">《Rocky》洛奇</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2016-06-07 00:00:00" itemprop="dateCreated datePublished" datetime="2016-06-07T00:00:00+00:00">2016-06-07</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <img src="/rocky-balboa/rocky-balboa.jpg" width="800" title="Rocky">
+          <!--noindex-->
+          
+            <div class="post-button text-center">
+              <a class="btn" href="/rocky-balboa/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/hello-world/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpeg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="伟伟的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                
+                <a href="/hello-world/" class="post-title-link" itemprop="url">Hello World</a>
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+
+            
+            
+            
+
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+
+              
+                
+              
+
+              <time title="创建时间：2016-06-06 06:06:06" itemprop="dateCreated datePublished" datetime="2016-06-06T06:06:06+00:00">2016-06-06</time>
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <img src="/hello-world/hello-world.jpeg" width="800" title="hello-world">
+<blockquote class="blockquote-center"><p><b>终究还是没能为开篇想到更合适的标题，索性就用 Hello World 吧。</b><br><b>一来有博客初开之喜，二来是要时时告诫自己凡事莫轻浮，永远保持新手般的学习心态。</b><br><b>博客用途：学习笔记，技术分享，生活杂谈，随便说说。</b></p>
+</blockquote>
+
+          
+        
+      
+    </div>
+
+    
+
+    
+    
+    
+
+    
+
+    
+      
+    
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+  </section>
+
+  
+
+
+          </div>
+          
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image" src="/images/avatar.jpeg" alt="">
+            
+              <p class="site-author-name" itemprop="name"></p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">8</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+
+          
+
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </div>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; 2016 – <span itemprop="copyrightYear">2023</span>
+  <span class="with-love" id="animate">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder"></span>
+
+  
+
+  
+</div>
+
+
+  <div class="powered-by">由 <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动 v3.8.0</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 – <a href="https://theme-next.org" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> v6.6.0</div>
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script>
+
+        
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+    
+
+    
+  </div>
+
+  
+
+<script>
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+
+  
+
+
+  <script src="/js/src/utils.js?v=6.6.0"></script>
+
+  <script src="/js/src/motion.js?v=6.6.0"></script>
+
+
+
+  
+  
+
+
+  <script src="/js/src/affix.js?v=6.6.0"></script>
+
+  <script src="/js/src/schemes/pisces.js?v=6.6.0"></script>
+
+
+
+  
+
+  
+
+
+  <script src="/js/src/bootstrap.js?v=6.6.0"></script>
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
