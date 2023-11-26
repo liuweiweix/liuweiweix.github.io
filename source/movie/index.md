@@ -6,6 +6,11 @@ date: 2019-01-01 13:58:17
 ## 2021
 
 {% note %}
+### [明日之战 The Tomorrow War](https://movie.douban.com/subject/30459571/)
+2021.12.22
+{% endnote %}
+
+{% note %}
 ### [波西米亚狂想曲 Bohemian Rhapsody (2018)](https://movie.douban.com/subject/5300054/)
 2021.12.05
 北京·家
